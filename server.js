@@ -44,6 +44,7 @@ const fullTextCache = new Map();
 const FULL_TEXT_CACHE_BYTES = 32 * 1024 * 1024;
 let fullTextCacheBytes = 0;
 let lastRefresh  = 0;
+let refreshing   = false;
 const REFRESH_INTERVAL = 30 * 60 * 1000; // 30 min
 
 // ─── Helpers ─────────────────────────────────────────────────────────────────
@@ -237,6 +238,7 @@ async function refreshAllFeeds() {
   // connections. Keep parallelism bounded while retaining a responsive server.
   let nextIndex = 0;
   articleCache = [];
+  refreshing = true;
 
   async function worker() {
     while (nextIndex < feeds.length) {
@@ -247,16 +249,20 @@ async function refreshAllFeeds() {
       if (items.length) articleCache.push(...items);
     }
   }
-  await Promise.all(Array.from({ length: Math.min(concurrency, feeds.length) }, worker));
+  try {
+    await Promise.all(Array.from({ length: Math.min(concurrency, feeds.length) }, worker));
 
-  // The list endpoint sorts on read, so a single sort here is enough.
-  articleCache.sort(byNewest);
-  if (articleCache.length > MAX_CACHED_ARTICLES) {
-    articleCache.length = MAX_CACHED_ARTICLES;
+    // The list endpoint sorts on read, so a single sort here is enough.
+    articleCache.sort(byNewest);
+    if (articleCache.length > MAX_CACHED_ARTICLES) {
+      articleCache.length = MAX_CACHED_ARTICLES;
+    }
+
+    lastRefresh = Date.now();
+    console.log(`[refresh] Done — ${articleCache.length} articles cached`);
+  } finally {
+    refreshing = false;
   }
-
-  lastRefresh = Date.now();
-  console.log(`[refresh] Done — ${articleCache.length} articles cached`);
 }
 
 // ─── Merge state into articles ────────────────────────────────────────────────
@@ -530,6 +536,7 @@ app.get('/api/stats', (req, res) => {
     unreadCount,
     unreadByFeed,
     savedCount: state.saved.length,
+    refreshing,
   });
 });
 

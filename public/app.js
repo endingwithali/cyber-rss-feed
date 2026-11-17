@@ -39,6 +39,9 @@ let state = {
 /* Feed URL map (feedId → url) for favicons */
 let feedUrlMap = {};
 
+/* Timer for the self-scheduling stats poll */
+let statsTimer = null;
+
 /* ══ DOM refs ════════════════════════════════════════════════════════════════ */
 const $ = id => document.getElementById(id);
 
@@ -203,6 +206,11 @@ async function updateStats() {
     unreadEl.classList.remove('hidden');
     savedEl.classList.toggle('hidden', savedCount === 0);
     renderFeeds();
+
+    // While the server is still fetching feeds, poll quickly so per-feed
+    // unread counts appear as soon as articles arrive; otherwise poll slowly.
+    clearTimeout(statsTimer);
+    statsTimer = setTimeout(updateStats, stats.refreshing ? 2000 : 30000);
   } catch { /* non-critical */ }
 }
 
@@ -1377,6 +1385,9 @@ async function init() {
 
   /* Load articles */
   await loadArticles(true);
+
+  /* Keep per-feed unread counts fresh as the background fetch completes. */
+  updateStats();
 
   /* Auto-refresh every 5 min */
   setInterval(() => loadArticles(), 5 * 60 * 1000);
