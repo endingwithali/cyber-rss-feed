@@ -1,0 +1,3490 @@
+[
+  {
+    "id": "hn",
+    "url": "https://news.ycombinator.com/rss",
+    "title": "Hacker News",
+    "category": "tech",
+    "color": "#f59e0b",
+    "addedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "verge",
+    "url": "https://www.theverge.com/rss/index.xml",
+    "title": "The Verge",
+    "category": "tech",
+    "color": "#8b5cf6",
+    "addedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "smashing",
+    "url": "https://www.smashingmagazine.com/feed/",
+    "title": "Smashing Magazine",
+    "category": "design",
+    "color": "#ec4899",
+    "addedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "7dd6c2ae",
+    "url": "https://0xdarkvortex.dev/feed.xml",
+    "title": "Dark Vortex",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T17:59:54.711Z"
+  },
+  {
+    "id": "0fc223bf",
+    "url": "https://0xv1n.github.io/index.xml",
+    "title": "0xv1n",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T17:59:55.459Z"
+  },
+  {
+    "id": "6362d097",
+    "url": "http://antirez.com/rss",
+    "title": "antirez.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "891e41d4",
+    "url": "http://feeds.feedburner.com/blogspot/ofozM",
+    "title": "feeds.feedburner.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9cfd6021",
+    "url": "http://feeds.feedburner.com/Clamav",
+    "title": "feeds.feedburner.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "332163b6",
+    "url": "http://feeds.feedburner.com/GoogleOnlineSecurityBlog",
+    "title": "feeds.feedburner.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b7ad9abe",
+    "url": "http://feeds.feedburner.com/GynvaelColdwindPL",
+    "title": "feeds.feedburner.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9a3585c2",
+    "url": "https://0xash.io/feed.xml",
+    "title": "0xash.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d47f2e18",
+    "url": "https://0xdf.gitlab.io/feed.xml",
+    "title": "0xdf.gitlab.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "47c0033c",
+    "url": "https://0xf00sec.github.io/feed.xml",
+    "title": "0xf00sec.github.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "40562e50",
+    "url": "https://0xsp.com/feed/",
+    "title": "0xsp.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "06457542",
+    "url": "https://0xsultan.github.io/feed.xml",
+    "title": "0xsultan.github.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6b638ce0",
+    "url": "https://3sjay.github.io/feed.xml",
+    "title": "3sjay.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7ac05b63",
+    "url": "https://5pider.net/blog/atom.xml",
+    "title": "5pider.net",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0901b4ff",
+    "url": "https://5stars217.github.io/feed.xml",
+    "title": "5stars217.github.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e7e1d683",
+    "url": "https://a13xp0p0v.github.io/feed.xml",
+    "title": "a13xp0p0v.github.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2ea35265",
+    "url": "https://aadinternals.com/index.xml",
+    "title": "aadinternals.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4b4ec633",
+    "url": "https://ackee.xyz/blog/feed/",
+    "title": "ackee.xyz",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3d67041f",
+    "url": "https://adamdoupe.com/atom.xml",
+    "title": "adamdoupe.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a0c4179f",
+    "url": "https://adamobeng.com/feed.xml",
+    "title": "adamobeng.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fc868955",
+    "url": "https://adepts.of0x.cc/feed.xml",
+    "title": "adepts.of0x.cc",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4e63d6f2",
+    "url": "https://adnanthekhan.com/feed/",
+    "title": "adnanthekhan.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "02cbff45",
+    "url": "https://advisory.splunk.com/feed.xml",
+    "title": "advisory.splunk.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0cd36651",
+    "url": "https://alephsecurity.com/feed.xml",
+    "title": "alephsecurity.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7bac6887",
+    "url": "https://alexplaskett.github.io/feed.xml",
+    "title": "alexplaskett.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1ff76388",
+    "url": "https://amalmurali.me/index.xml",
+    "title": "amalmurali.me",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "dd4377be",
+    "url": "https://amitschendel.github.io/feed.xml",
+    "title": "amitschendel.github.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "aa730cb8",
+    "url": "https://androidoffsec.withgoogle.com/index.xml",
+    "title": "androidoffsec.withgoogle.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4bf66cc2",
+    "url": "https://antoinevastel.com/feed.xml",
+    "title": "antoinevastel.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "368b9bb4",
+    "url": "https://appsec.guide/index.xml",
+    "title": "appsec.guide",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "018ece99",
+    "url": "https://arseniyshestakov.com/index.xml",
+    "title": "arseniyshestakov.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e78db684",
+    "url": "https://artemonsecurity.blogspot.com/feeds/posts/default",
+    "title": "artemonsecurity.blogspot.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "57ebf2b6",
+    "url": "https://assume-breach.medium.com/feed",
+    "title": "assume-breach.medium.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "817749bc",
+    "url": "https://avi.im/blag/index.xml",
+    "title": "avi.im",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9b76c050",
+    "url": "https://awssecuritydigest.com/feed.xml",
+    "title": "awssecuritydigest.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "67bed1fd",
+    "url": "https://badoption.eu/feed.xml",
+    "title": "badoption.eu",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0dae8585",
+    "url": "https://basden.xyz/rss.xml",
+    "title": "basden.xyz",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "697d79ba",
+    "url": "https://billdemirkapi.me/rss/",
+    "title": "billdemirkapi.me",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f7b5e9b6",
+    "url": "https://binary.ninja/feed.xml",
+    "title": "binary.ninja",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "05d8c57c",
+    "url": "https://bitwarden.com/blog/feed.xml",
+    "title": "bitwarden.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c66c1418",
+    "url": "https://blacktop.github.io/ipsw/blog/atom.xml",
+    "title": "blacktop.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3a961593",
+    "url": "https://blackwinghq.com/index.xml",
+    "title": "blackwinghq.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "784ea06d",
+    "url": "https://blog.1password.com/index.xml",
+    "title": "blog.1password.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a48f6f65",
+    "url": "https://blog.badsectorlabs.com/feeds/all.atom.xml",
+    "title": "blog.badsectorlabs.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f4b742b9",
+    "url": "https://blog.bitsadmin.com/feed",
+    "title": "blog.bitsadmin.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "71484f16",
+    "url": "https://blog.chebuya.com/index.xml",
+    "title": "blog.chebuya.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4c02c190",
+    "url": "https://blog.checkymander.com/feed.xml",
+    "title": "blog.checkymander.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "af5447ae",
+    "url": "https://blog.christophetd.fr/feed/",
+    "title": "blog.christophetd.fr",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e1c3d6b6",
+    "url": "https://blog.chromium.org/feeds/posts/default",
+    "title": "blog.chromium.org",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "604e3aa8",
+    "url": "https://blog.cloudflare.com/introducing-har-sanitizer-secure-har-sharing/rss",
+    "title": "blog.cloudflare.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "65fc6db9",
+    "url": "https://blog.cryptographyengineering.com/feed/",
+    "title": "blog.cryptographyengineering.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "58498882",
+    "url": "https://blog.delivr.to/feed",
+    "title": "blog.delivr.to",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "59abe321",
+    "url": "https://blog.dfsec.com/feed.xml",
+    "title": "blog.dfsec.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7ab586f3",
+    "url": "https://blog.didierstevens.com/feed/",
+    "title": "blog.didierstevens.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "08b107ca",
+    "url": "https://blog.doyensec.com/atom.xml",
+    "title": "blog.doyensec.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a11cb017",
+    "url": "https://blog.exodusintel.com/feed/",
+    "title": "blog.exodusintel.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0d0f2c6a",
+    "url": "https://blog.exploits.club/rss/",
+    "title": "blog.exploits.club",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5016f696",
+    "url": "https://blog.foxio.io/feed",
+    "title": "blog.foxio.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a5e64126",
+    "url": "https://blog.fox-it.com/feed/",
+    "title": "blog.fox-it.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7324e2fa",
+    "url": "https://blog.grimm-co.com/feeds/posts/default",
+    "title": "blog.grimm-co.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3777ef32",
+    "url": "https://blog.hrncirik.net/atom.xml",
+    "title": "blog.hrncirik.net",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "35f1cb57",
+    "url": "https://blog.impalabs.com/feed.xml",
+    "title": "blog.impalabs.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "59c55433",
+    "url": "https://blog.includesecurity.com/feed/",
+    "title": "blog.includesecurity.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a610ecb1",
+    "url": "https://blog.isosceles.com/rss/",
+    "title": "blog.isosceles.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8d9ff39e",
+    "url": "https://blog.karims.cloud/feed.xml",
+    "title": "blog.karims.cloud",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "28a5a2dc",
+    "url": "https://blog.neuvik.com/feed",
+    "title": "blog.neuvik.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4dfa7621",
+    "url": "https://blog.nviso.eu/feed/",
+    "title": "blog.nviso.eu",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a9ff4ae4",
+    "url": "https://blog.openthreatresearch.com/rss/",
+    "title": "blog.openthreatresearch.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0d4c6f35",
+    "url": "https://blog.orange.tw/atom",
+    "title": "blog.orange.tw",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b2690280",
+    "url": "https://blog.projectdiscovery.io/rss/",
+    "title": "blog.projectdiscovery.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3a6b62f2",
+    "url": "https://blog.pwnedlabs.io/rss.xml",
+    "title": "blog.pwnedlabs.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4bdf6303",
+    "url": "https://blog.qualys.com/feed",
+    "title": "blog.qualys.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c3c40e5b",
+    "url": "https://blog.quarkslab.com/feeds/all.atom.xml",
+    "title": "blog.quarkslab.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "663b72c4",
+    "url": "https://blog.redxorblue.com/feeds/posts/default",
+    "title": "blog.redxorblue.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "26bafe59",
+    "url": "https://blog.ret2.io/feed.xml",
+    "title": "blog.ret2.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3be1dc7a",
+    "url": "https://blog.reveng.ai/rss/",
+    "title": "blog.reveng.ai",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "446d0a02",
+    "url": "https://blog.ryotak.net/index.xml",
+    "title": "blog.ryotak.net",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "cab46f21",
+    "url": "https://blog.scrt.ch/feed/",
+    "title": "blog.scrt.ch",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "df604394",
+    "url": "https://blog.shodan.io/rss/",
+    "title": "blog.shodan.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fdc15aba",
+    "url": "https://blog.slowerzs.net/index.xml",
+    "title": "blog.slowerzs.net",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5632d137",
+    "url": "https://blogs.microsoft.com/feed/",
+    "title": "blogs.microsoft.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "be31315b",
+    "url": "https://blog.stratumsecurity.com/rss/",
+    "title": "blog.stratumsecurity.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "00c24ab5",
+    "url": "https://blog.strikeready.com/index.xml",
+    "title": "blog.strikeready.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7a1684d5",
+    "url": "https://blog.sunggwanchoi.com/rss/",
+    "title": "blog.sunggwanchoi.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f39e9157",
+    "url": "https://blog.syss.com/feed",
+    "title": "blog.syss.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ed6aa967",
+    "url": "https://blog.talosintelligence.com/rss/",
+    "title": "blog.talosintelligence.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5387683c",
+    "url": "https://blog.thc.org/rss.xml",
+    "title": "blog.thc.org",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1fb02e8f",
+    "url": "https://blog.theori.io/feed",
+    "title": "blog.theori.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "976f5272",
+    "url": "https://blog.thinkst.com/feed",
+    "title": "blog.thinkst.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2a93e0bd",
+    "url": "https://blog.trailofbits.com/feed/",
+    "title": "blog.trailofbits.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3de87db9",
+    "url": "https://blog.washi.dev/feed.xml",
+    "title": "blog.washi.dev",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8caa762a",
+    "url": "https://blog.whiteflag.io/index.xml",
+    "title": "blog.whiteflag.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a8db6162",
+    "url": "https://blog.xpnsec.com/rss.xml",
+    "title": "blog.xpnsec.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3a5efdc9",
+    "url": "https://bohops.com/feed/",
+    "title": "bohops.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "949ea894",
+    "url": "https://br0k3nlab.com/index.xml",
+    "title": "br0k3nlab.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "dd2e411c",
+    "url": "https://br0k3nlab.com/LoFP/index.xml",
+    "title": "br0k3nlab.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b8120011",
+    "url": "https://breakdev.org/rss/",
+    "title": "breakdev.org",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c1c7da00",
+    "url": "https://brownfinesecurity.com/index.xml",
+    "title": "brownfinesecurity.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fc6efb15",
+    "url": "https://bsidesaugusta.org/feed/",
+    "title": "bsidesaugusta.org",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "986f6705",
+    "url": "https://bugs.xdavidhu.me/feed.xml",
+    "title": "bugs.xdavidhu.me",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7ef21487",
+    "url": "https://cajundiscordian.medium.com/feed",
+    "title": "cajundiscordian.medium.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "cc79729c",
+    "url": "https://captmeelo.com/feed.xml",
+    "title": "captmeelo.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b526af15",
+    "url": "https://cedowens.medium.com/feed",
+    "title": "cedowens.medium.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fced8e3d",
+    "url": "https://censys.com/feed/",
+    "title": "censys.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d1121e25",
+    "url": "https://cerbersec.com/feed.xml",
+    "title": "cerbersec.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "431902ed",
+    "url": "https://certitude.consulting/blog/en/feed/",
+    "title": "certitude.consulting",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "116a466e",
+    "url": "https://ch4ik0.github.io/index.xml",
+    "title": "ch4ik0.github.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d6702605",
+    "url": "https://chesterlebron.blogspot.com/feeds/posts/default",
+    "title": "chesterlebron.blogspot.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e8b85688",
+    "url": "https://chrisholdgraf.com/rss.xml",
+    "title": "chrisholdgraf.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6428bf0d",
+    "url": "https://cicada-8.medium.com/feed",
+    "title": "cicada-8.medium.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a3af4eac",
+    "url": "https://circleci.com/blog/feed.xml",
+    "title": "circleci.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "41da7d4a",
+    "url": "https://citizenlab.ca/feed/",
+    "title": "citizenlab.ca",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2cfbc3c3",
+    "url": "https://claroty.com/team82/disclosure-dashboard/feed/atom",
+    "title": "claroty.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "cf6d1362",
+    "url": "https://clearbluejar.github.io/feed",
+    "title": "clearbluejar.github.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "289a9881",
+    "url": "https://clo.ng/index.xml",
+    "title": "clo.ng",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d7a37d35",
+    "url": "https://cloudbrothers.info/index.xml",
+    "title": "cloudbrothers.info",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "68382c0d",
+    "url": "https://code-white.com/index.xml",
+    "title": "code-white.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "60605ff9",
+    "url": "https://cofense.com/feed",
+    "title": "cofense.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3c9b8bd0",
+    "url": "https://computer.rip/rss.xml",
+    "title": "computer.rip",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1fb15d48",
+    "url": "https://comsec.ethz.ch/feed/",
+    "title": "comsec.ethz.ch",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5eb381c1",
+    "url": "https://connormcgarr.github.io/feed.xml",
+    "title": "connormcgarr.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6e08d755",
+    "url": "https://csandker.io/feed.xml",
+    "title": "csandker.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5d57e5cf",
+    "url": "https://ctf.re/feed.xml",
+    "title": "ctf.re",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7bf44c34",
+    "url": "https://cyb3rops.medium.com/feed",
+    "title": "cyb3rops.medium.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "24268748",
+    "url": "https://cybenari.com/feed/",
+    "title": "cybenari.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "21274ee0",
+    "url": "https://cyberstoph.org/index.xml",
+    "title": "cyberstoph.org",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5fc31cc5",
+    "url": "https://cymulate.com/feed/",
+    "title": "cymulate.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "11615a76",
+    "url": "https://danaepp.com/feed",
+    "title": "danaepp.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a3790a97",
+    "url": "https://danrevah.github.io/feed.xml",
+    "title": "danrevah.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "df6acf60",
+    "url": "https://datatracker.ietf.org/feed/document-changes/rfc3442/",
+    "title": "datatracker.ietf.org",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7aabd519",
+    "url": "https://dayzerosec.com/feed.xml",
+    "title": "dayzerosec.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f3fa08b6",
+    "url": "https://dazzyddos.github.io/feed",
+    "title": "dazzyddos.github.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6a449c17",
+    "url": "https://dazzyddos.github.io/feed.xml",
+    "title": "dazzyddos.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "543456eb",
+    "url": "https://decoded.avast.io/feed/",
+    "title": "decoded.avast.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d0c52184",
+    "url": "https://decoder.cloud/feed/",
+    "title": "decoder.cloud",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d528b718",
+    "url": "https://deda.lol/index.xml",
+    "title": "deda.lol",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "17635cb2",
+    "url": "https://defcon.org/defconrss.xml",
+    "title": "defcon.org",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d35e5061",
+    "url": "https://detect.fyi/feed",
+    "title": "detect.fyi",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "615fb6b6",
+    "url": "https://dfir.ch/index.xml",
+    "title": "dfir.ch",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "735ee8e5",
+    "url": "https://dirkjanm.io/feed.xml",
+    "title": "dirkjanm.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f9e87302",
+    "url": "https://discord.com/blog/rss.xml",
+    "title": "discord.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5d87f145",
+    "url": "https://dispatch.redteams.fyi/rss/",
+    "title": "dispatch.redteams.fyi",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "970a98ff",
+    "url": "https://disrel.com/feed",
+    "title": "disrel.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "49d9cad0",
+    "url": "https://doar-e.github.io/feeds/atom.xml",
+    "title": "doar-e.github.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7bdd4de0",
+    "url": "https://docs.harpia.io/blog/atom.xml",
+    "title": "docs.harpia.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3984e33c",
+    "url": "https://docs.modular.com/max/tutorials/atom.xml",
+    "title": "docs.modular.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "01ad99da",
+    "url": "https://doubleagent.net/rss/",
+    "title": "doubleagent.net",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "bf69caa3",
+    "url": "https://doublepulsar.com/feed",
+    "title": "doublepulsar.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4015aae8",
+    "url": "https://dr4k0nia.github.io/feed",
+    "title": "dr4k0nia.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b3b1eef1",
+    "url": "https://driesdepoorter.be/feed/",
+    "title": "driesdepoorter.be",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4d01aa3d",
+    "url": "https://dustri.org/b/atom.xml",
+    "title": "dustri.org",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1adb57df",
+    "url": "https://eaton-works.com/feed.atom",
+    "title": "eaton-works.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8412c9dd",
+    "url": "https://edermi.github.io/index.xml",
+    "title": "edermi.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c169f25e",
+    "url": "https://engineering.avast.io/feed/",
+    "title": "engineering.avast.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "643f2c9f",
+    "url": "https://en.hackndo.com/feed.xml",
+    "title": "en.hackndo.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7fb48ee5",
+    "url": "https://etenal.me/feed",
+    "title": "etenal.me",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d2c64fd4",
+    "url": "https://ethicalchaos.dev/feed/",
+    "title": "ethicalchaos.dev",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a2c569f7",
+    "url": "https://evanconnelly.github.io/index.xml",
+    "title": "evanconnelly.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "489db080",
+    "url": "https://evotec.xyz/feed/",
+    "title": "evotec.xyz",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b1890a86",
+    "url": "https://exploit.ph/feeds/all.atom.xml",
+    "title": "exploit.ph",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2db7098f",
+    "url": "https://ezrabuckingham.com/index.xml",
+    "title": "ezrabuckingham.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "49f7dd08",
+    "url": "https://falconforce.nl/feed/",
+    "title": "falconforce.nl",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f5dff942",
+    "url": "https://fathy.fr/atom.xml",
+    "title": "fathy.fr",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3946d8f8",
+    "url": "https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches",
+    "title": "feeds.feedburner.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1aa6fdbb",
+    "url": "https://fin3ss3g0d.net/index.php/feed/",
+    "title": "fin3ss3g0d.net",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0336f4b8",
+    "url": "https://fortbridge.co.uk/feed/",
+    "title": "fortbridge.co.uk",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "02a9bfe8",
+    "url": "https://fortynorthsecurity.com/blog/rss/",
+    "title": "fortynorthsecurity.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6ecf92da",
+    "url": "https://frame.work/blog.rss",
+    "title": "frame.work",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fe4adddf",
+    "url": "https://francozappa.github.io/index.xml",
+    "title": "francozappa.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f9c7c318",
+    "url": "https://freenginx.org/index.rss",
+    "title": "freenginx.org",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4c36aae5",
+    "url": "https://frereit.de/index.xml",
+    "title": "frereit.de",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "56f56845",
+    "url": "https://freyxfi.github.io/feed.xml",
+    "title": "freyxfi.github.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "70c83555",
+    "url": "https://frida.re/feed.xml",
+    "title": "frida.re",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a44a859f",
+    "url": "https://frischkorn-nicholas.medium.com/feed",
+    "title": "frischkorn-nicholas.medium.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e25cad47",
+    "url": "https://frycos.github.io/feed.xml",
+    "title": "frycos.github.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a97aaced",
+    "url": "https://gergelykalman.com/feeds/all.atom.xml",
+    "title": "gergelykalman.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "18b93716",
+    "url": "https://getpelican.com/feeds/all.atom.xml",
+    "title": "getpelican.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fdf0c442",
+    "url": "https://git.culbertreport.com/feed",
+    "title": "git.culbertreport.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d85b0a71",
+    "url": "https://gitlab.com/badsectorlabs/iscariot-suite.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2059bb10",
+    "url": "https://gitlab.com/badsectorlabs/ludus/-/releases.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "59998992",
+    "url": "https://gitlab.com/feed.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "99ece4b3",
+    "url": "https://gitlab.com/gitlab-com/gl-security/security-operations/redteam/redteam-public/tools/continuousmage.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c0e74dd5",
+    "url": "https://gitlab.com/illwill/sub7.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "cbba7619",
+    "url": "https://gitlab.com/ORCA000/entropyfix.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "930bc3d9",
+    "url": "https://gitlab.com/ORCA000/kcthijacklib.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9ffaf125",
+    "url": "https://gitlab.com/Zer1t0/zsyscall.atom",
+    "title": "gitlab.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2f02a05b",
+    "url": "https://go.dev/blog/feed.atom",
+    "title": "go.dev",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "319def14",
+    "url": "https://goingbeyondgrep.com/index.xml",
+    "title": "goingbeyondgrep.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c47df6f4",
+    "url": "https://goodworkaround.com/feed/",
+    "title": "goodworkaround.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0b39edd2",
+    "url": "https://googleprojectzero.blogspot.com/feeds/posts/default",
+    "title": "googleprojectzero.blogspot.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "54ac40cd",
+    "url": "https://gosecure.ai/feed/",
+    "title": "gosecure.ai",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b8edd41e",
+    "url": "https://grahamhelton.com/blog/index.xml",
+    "title": "grahamhelton.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d3d29430",
+    "url": "https://grahamhelton.com/index.xml",
+    "title": "grahamhelton.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9baa4da5",
+    "url": "https://grahamhelton.com/rss.xml",
+    "title": "grahamhelton.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "abcde7a5",
+    "url": "https://grimmie.net/feed/",
+    "title": "grimmie.net",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c29c7d41",
+    "url": "https://h0mbre.github.io/feed.xml",
+    "title": "h0mbre.github.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1a28d59e",
+    "url": "https://hackcompute.com/rss/",
+    "title": "hackcompute.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "14ae60a6",
+    "url": "https://hackingthe.cloud/feed_rss_created.xml",
+    "title": "hackingthe.cloud",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "05073902",
+    "url": "https://hacktodef.com/rss.xml",
+    "title": "hacktodef.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0ee1c04b",
+    "url": "https://haggis-m.medium.com/feed",
+    "title": "haggis-m.medium.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "396704aa",
+    "url": "https://harfanglab.io/feed/",
+    "title": "harfanglab.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "cbe9f1d2",
+    "url": "https://hausec.com/feed/",
+    "title": "hausec.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f831a7fd",
+    "url": "https://haxx.in/index.xml",
+    "title": "haxx.in",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1e7d36bb",
+    "url": "https://her0ness.github.io/feed.xml",
+    "title": "her0ness.github.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "aaf5738f",
+    "url": "https://howtomarketagame.com/feed/",
+    "title": "howtomarketagame.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "97803812",
+    "url": "https://icyguider.github.io/feed.xml",
+    "title": "icyguider.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "355b6a6f",
+    "url": "https://ii4gsp.github.io/atom.xml",
+    "title": "ii4gsp.github.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3b53b7bd",
+    "url": "https://imlzq.com/feed.xml",
+    "title": "imlzq.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c12ebaa2",
+    "url": "https://infosec.exchange/@badsectorlabs.rss",
+    "title": "infosec.exchange",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "125dbea1",
+    "url": "https://infosec.exchange/@christophetd.rss",
+    "title": "infosec.exchange",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "db5da9dd",
+    "url": "https://infosec.exchange/@itm4n.rss",
+    "title": "infosec.exchange",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e0a3fde9",
+    "url": "https://initialcommit.com/blog/rss.xml",
+    "title": "initialcommit.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3081414d",
+    "url": "https://ipslav.github.io/feed.xml",
+    "title": "ipslav.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b3ea982e",
+    "url": "https://itm4n.github.io/feed",
+    "title": "itm4n.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "509d4cd9",
+    "url": "https://jackson-t.com/index.xml",
+    "title": "jackson-t.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a8d03153",
+    "url": "https://jakewnuk.com/index.xml",
+    "title": "jakewnuk.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a70f8c92",
+    "url": "https://jameshfisher.com/feed.xml",
+    "title": "jameshfisher.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6463842b",
+    "url": "https://jasonppy.github.io/feed",
+    "title": "jasonppy.github.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "202b86c7",
+    "url": "https://jdomeracki.github.io/atom.xml",
+    "title": "jdomeracki.github.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7b0588a6",
+    "url": "https://jfmeee.hashnode.dev/rss.xml",
+    "title": "jfmeee.hashnode.dev",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "bf855001",
+    "url": "https://jhalon.github.io/feed.xml",
+    "title": "jhalon.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "42f179cd",
+    "url": "https://jhftss.github.io/feed.xml",
+    "title": "jhftss.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "18a9a1fe",
+    "url": "https://jsecurity101.medium.com/feed",
+    "title": "jsecurity101.medium.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "03aecfcd",
+    "url": "https://jub0bs.com/index.xml",
+    "title": "jub0bs.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e6f9660e",
+    "url": "https://kentindell.github.io/feed.xml",
+    "title": "kentindell.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b4af2ab6",
+    "url": "https://khronokernel.com/feed.xml",
+    "title": "khronokernel.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "27cf5ce3",
+    "url": "https://krebsonsecurity.com/feed/",
+    "title": "krebsonsecurity.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "03892f75",
+    "url": "https://labs.cognisys.group/feed",
+    "title": "labs.cognisys.group",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "968013e6",
+    "url": "https://labs.guard.io/feed",
+    "title": "labs.guard.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d924b563",
+    "url": "https://labs.jumpsec.com/feed/",
+    "title": "labs.jumpsec.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5cb9dc23",
+    "url": "https://labs.lares.com/rss/",
+    "title": "labs.lares.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f68f6004",
+    "url": "https://labs.nettitude.com/feed/",
+    "title": "labs.nettitude.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "91844072",
+    "url": "https://labs.watchtowr.com/rss/",
+    "title": "labs.watchtowr.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b574f622",
+    "url": "https://lcamtuf.substack.com/feed",
+    "title": "lcamtuf.substack.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c38eea0c",
+    "url": "https://letsencrypt.org/feed.xml",
+    "title": "letsencrypt.org",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a2447613",
+    "url": "https://loworbitsecurity.com/index.xml",
+    "title": "loworbitsecurity.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ec31f2c7",
+    "url": "https://luemmelsec.github.io/feed.xml",
+    "title": "luemmelsec.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c6557a3e",
+    "url": "https://m365internals.com/feed/",
+    "title": "m365internals.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7c7ab769",
+    "url": "https://m417z.com/feed.xml",
+    "title": "m417z.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c7240589",
+    "url": "https://m4lwhere.medium.com/feed",
+    "title": "m4lwhere.medium.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c02942fb",
+    "url": "https://maia.crimew.gay/feed.xml",
+    "title": "maia.crimew.gay",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d762339f",
+    "url": "https://malacupa.com/atom.xml",
+    "title": "malacupa.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ca6f4cdd",
+    "url": "https://malicious.link/posts/index.xml",
+    "title": "malicious.link",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8dd5c8f7",
+    "url": "https://malwaremaloney.blogspot.com/feeds/posts/default",
+    "title": "malwaremaloney.blogspot.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d9c3f22a",
+    "url": "https://malwaretech.com/feed",
+    "title": "malwaretech.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2047cbab",
+    "url": "https://marcoramilli.com/feed/",
+    "title": "marcoramilli.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2ec7b026",
+    "url": "https://mattfrisbie.substack.com/feed",
+    "title": "mattfrisbie.substack.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2569eb39",
+    "url": "https://mayfly277.github.io/feed",
+    "title": "mayfly277.github.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f6eb6869",
+    "url": "https://medium.com/@0xcc00/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "37565108",
+    "url": "https://medium.com/@airlockdigital/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e9f98788",
+    "url": "https://medium.com/@bobbyrsec/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "47119397",
+    "url": "https://medium.com/@byq/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8b18bb79",
+    "url": "https://medium.com/@cy1337/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9be25758",
+    "url": "https://medium.com/@enki-techblog/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4a6ba82e",
+    "url": "https://medium.com/@fakasler/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "13cc3569",
+    "url": "https://medium.com/feed/@kostas-ts",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c2ce34f6",
+    "url": "https://medium.com/@flytechoriginal/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "84cb8257",
+    "url": "https://medium.com/@frycos/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a6675c88",
+    "url": "https://medium.com/@matterpreter/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5f8dd273",
+    "url": "https://medium.com/@mitrecaldera/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fb89cc0e",
+    "url": "https://medium.com/@MorattiSec/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3471f378",
+    "url": "https://medium.com/@sam0-0/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "03fb8a5b",
+    "url": "https://medium.com/@soufianehabti/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6027995f",
+    "url": "https://medium.com/@TalBeerySec/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f234e596",
+    "url": "https://medium.com/@tamirye94/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "34f44db0",
+    "url": "https://medium.com/@xploiterd/feed",
+    "title": "medium.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e6cde3aa",
+    "url": "https://memorycorruption.net/index.xml",
+    "title": "memorycorruption.net",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b7988905",
+    "url": "https://metalbear.co/index.xml",
+    "title": "metalbear.co",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7256b3a5",
+    "url": "https://mgeeky.tech/feed/",
+    "title": "mgeeky.tech",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "449379be",
+    "url": "https://mikko-kenttala.medium.com/feed",
+    "title": "mikko-kenttala.medium.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c947bf3b",
+    "url": "https://minder-security.ghost.io/rss/",
+    "title": "minder-security.ghost.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "60bda9cc",
+    "url": "https://mjg59.dreamwidth.org/data/rss",
+    "title": "mjg59.dreamwidth.org",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d72bbe27",
+    "url": "https://modexp.wordpress.com/feed/",
+    "title": "modexp.wordpress.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c07b7c91",
+    "url": "https://mrbruh.com/index.xml",
+    "title": "mrbruh.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "cba52d47",
+    "url": "https://msrc.microsoft.com/blog/feed",
+    "title": "msrc.microsoft.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a81382e9",
+    "url": "https://msrc.microsoft.com/feed",
+    "title": "msrc.microsoft.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "71097e8a",
+    "url": "https://muirey03.blogspot.com/feeds/posts/default",
+    "title": "muirey03.blogspot.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "10c308aa",
+    "url": "https://n1ght-w0lf.github.io/feed.xml",
+    "title": "n1ght-w0lf.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "84fcba8c",
+    "url": "https://n4r1b.com/index.xml",
+    "title": "n4r1b.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6285d849",
+    "url": "https://nasbench.medium.com/feed",
+    "title": "nasbench.medium.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e8e19e2e",
+    "url": "https://neil.computer/rss/",
+    "title": "neil.computer",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "aae8bb69",
+    "url": "https://neilmadden.blog/feed/",
+    "title": "neilmadden.blog",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f9172244",
+    "url": "https://neodyme.io/rss.xml",
+    "title": "neodyme.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "109b4ca4",
+    "url": "https://news.sophos.com/en-us/feed/",
+    "title": "news.sophos.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "966574bb",
+    "url": "https://nickb.website/feed.xml",
+    "title": "nickb.website",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d736a815",
+    "url": "https://nicolasuter.medium.com/feed",
+    "title": "nicolasuter.medium.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "32e61178",
+    "url": "https://nixos.org/blog/feed.xml",
+    "title": "nixos.org",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "788e9b85",
+    "url": "https://nostarch.com/rss.xml",
+    "title": "nostarch.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6b2d4fbf",
+    "url": "https://nullg0re.com/feed/",
+    "title": "nullg0re.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "84c06bcd",
+    "url": "https://objective-see.org/rss",
+    "title": "objective-see.org",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6abb072a",
+    "url": "https://observationsinsecurity.com/feed/",
+    "title": "observationsinsecurity.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "55e1c9f6",
+    "url": "https://octagon.net/blog/feed/",
+    "title": "octagon.net",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "386ee860",
+    "url": "https://offensivedefence.co.uk/index.xml",
+    "title": "offensivedefence.co.uk",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "59e319b2",
+    "url": "https://offsec.almond.consulting/feeds/all.atom.xml",
+    "title": "offsec.almond.consulting",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "4feca970",
+    "url": "https://opentofu.org/blog/atom.xml",
+    "title": "opentofu.org",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8607d08d",
+    "url": "https://osv.dev/blog/index.xml",
+    "title": "osv.dev",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e5753e6d",
+    "url": "https://outpost24.com/feed/",
+    "title": "outpost24.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "de08cd35",
+    "url": "https://owncloud.com/feed/",
+    "title": "owncloud.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8ff10d6f",
+    "url": "https://pacmanattack.com/atom.xml",
+    "title": "pacmanattack.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5f2777a1",
+    "url": "https://pagedout.institute/atom.xml",
+    "title": "pagedout.institute",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "08e7ef86",
+    "url": "https://palant.info/rss.xml",
+    "title": "palant.info",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "10c90be3",
+    "url": "https://pascscha.ch/weblog/rss/",
+    "title": "pascscha.ch",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "789afbb3",
+    "url": "https://pbom.dev/feed/",
+    "title": "pbom.dev",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "569cbefe",
+    "url": "https://pentestlab.blog/feed/",
+    "title": "pentestlab.blog",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "05657f89",
+    "url": "https://permiso.io/blog/rss.xml",
+    "title": "permiso.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d75eb52d",
+    "url": "https://peterjson.medium.com/feed",
+    "title": "peterjson.medium.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5a5bbd96",
+    "url": "https://pgj11.com/feed",
+    "title": "pgj11.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "aec1bf64",
+    "url": "https://pgj11.com/feed.xml",
+    "title": "pgj11.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f1e3aad9",
+    "url": "https://philkeeble.com/feed.xml",
+    "title": "philkeeble.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "56c8f551",
+    "url": "https://plowsec.github.io/atom",
+    "title": "plowsec.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "57cae8a5",
+    "url": "https://pluralistic.net/feed/",
+    "title": "pluralistic.net",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "540eee80",
+    "url": "https://podman-desktop.io/blog/atom.xml",
+    "title": "podman-desktop.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f9185900",
+    "url": "https://poppopret.org/feed/",
+    "title": "poppopret.org",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0532ef93",
+    "url": "https://portswigger.net/blog/rss",
+    "title": "portswigger.net",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "98d59936",
+    "url": "https://portswigger.net/daily-swig/rss",
+    "title": "portswigger.net",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ec4239b5",
+    "url": "https://portswigger.net/research/rss",
+    "title": "portswigger.net",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "aad8534f",
+    "url": "https://positive.security/blog/rss.xml",
+    "title": "positive.security",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8df1f68f",
+    "url": "https://posts.redteamtacticsacademy.com/feed",
+    "title": "posts.redteamtacticsacademy.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "83858253",
+    "url": "https://posts.specterops.io/feed",
+    "title": "posts.specterops.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a1c25153",
+    "url": "https://projectblack.io/blog/rss/",
+    "title": "projectblack.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2ed38c62",
+    "url": "https://pwning.tech/rss/",
+    "title": "pwning.tech",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3f48a8eb",
+    "url": "https://r00tkitsmm.github.io/feed.xml",
+    "title": "r00tkitsmm.github.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "49f13cac",
+    "url": "https://raesene.github.io/feed.xml",
+    "title": "raesene.github.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "00c2814d",
+    "url": "https://rastamouse.me/rss/",
+    "title": "rastamouse.me",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "17659813",
+    "url": "https://rbf.dev/feed.xml",
+    "title": "rbf.dev",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8cde030a",
+    "url": "https://redcanary.com/feed/",
+    "title": "redcanary.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0d3d9962",
+    "url": "https://redhuntlabs.com/feed/",
+    "title": "redhuntlabs.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "79a91c2e",
+    "url": "https://redteaming.co.uk/feed/",
+    "title": "redteaming.co.uk",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c51126e3",
+    "url": "https://redteamrecipe.com/rss.xml",
+    "title": "redteamrecipe.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "25538cab",
+    "url": "https://research.aurainfosec.io/index.xml",
+    "title": "research.aurainfosec.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "33dbca62",
+    "url": "https://research.ifcr.dk/feed",
+    "title": "research.ifcr.dk",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "365820b7",
+    "url": "https://research.openanalysis.net/feed.xml",
+    "title": "research.openanalysis.net",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7b8de4ea",
+    "url": "https://research.securitum.com/feed/",
+    "title": "research.securitum.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "709a59a9",
+    "url": "https://restoreprivacy.com/feed/",
+    "title": "restoreprivacy.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "08d08a7a",
+    "url": "https://revers.engineering/feed/",
+    "title": "revers.engineering",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1ab73aa2",
+    "url": "https://revflash.medium.com/feed",
+    "title": "revflash.medium.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8ff9c0b1",
+    "url": "https://rewardsforjustice.net/feed/",
+    "title": "rewardsforjustice.net",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c481e8b1",
+    "url": "https://rezaduty-1685945445294.hashnode.dev/rss.xml",
+    "title": "rezaduty-1685945445294.hashnode.dev",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "94e4745d",
+    "url": "https://rhinosecuritylabs.com/feed/",
+    "title": "rhinosecuritylabs.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "46c1075b",
+    "url": "https://riccardoancarani.github.io/feed.xml",
+    "title": "riccardoancarani.github.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8670c19a",
+    "url": "https://rift.stacktitan.com/rss/",
+    "title": "rift.stacktitan.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "43ed4258",
+    "url": "https://rootsecdev.medium.com/feed",
+    "title": "rootsecdev.medium.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "44a44036",
+    "url": "https://rss.beehiiv.com/feeds/gQxaV1KHkQ.xml",
+    "title": "rss.beehiiv.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "16908ab3",
+    "url": "https://rtx.meta.security/feed.xml",
+    "title": "rtx.meta.security",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "7162c822",
+    "url": "https://s1ckb017.github.io/feed.xml",
+    "title": "s1ckb017.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b95fc551",
+    "url": "https://s3cur3th1ssh1t.github.io/feed.xml",
+    "title": "s3cur3th1ssh1t.github.io",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9ceac290",
+    "url": "https://s4dbrd.com/feed.xml",
+    "title": "s4dbrd.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "08964b7f",
+    "url": "https://sabotagesec.com/feed/",
+    "title": "sabotagesec.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b61a6dac",
+    "url": "https://salt.security/blog/rss.xml",
+    "title": "salt.security",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "da26a5dd",
+    "url": "https://samcurry.net/api/feed.rss",
+    "title": "samcurry.net",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "05e539c7",
+    "url": "https://sansec.io/atom.xml",
+    "title": "sansec.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d13df02e",
+    "url": "https://scorpiosoftware.net/feed/",
+    "title": "scorpiosoftware.net",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "18d70341",
+    "url": "https://seclists.org/rss/nmap-announce.rss",
+    "title": "seclists.org",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b1bd1797",
+    "url": "https://sec.okta.com/rss.xml",
+    "title": "sec.okta.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d8a5bfb7",
+    "url": "https://secret.club/feed.xml",
+    "title": "secret.club",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "314c6881",
+    "url": "https://sector7.computest.nl/index.xml",
+    "title": "sector7.computest.nl",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2dbd6c16",
+    "url": "https://securelist.com/feed/",
+    "title": "securelist.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b803e97b",
+    "url": "https://securitylabs.datadoghq.com/rss/feed.xml",
+    "title": "securitylabs.datadoghq.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e094557c",
+    "url": "https://securitymaven.medium.com/feed",
+    "title": "securitymaven.medium.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "dc555477",
+    "url": "https://sensepost.com/rss.xml",
+    "title": "sensepost.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9e7d7700",
+    "url": "https://sh3llsp4wn.github.io/feed",
+    "title": "sh3llsp4wn.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "caa52475",
+    "url": "https://shellsharks.com/feeds/all-feed.xml",
+    "title": "shellsharks.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e58a23e0",
+    "url": "https://shells.systems/feed/",
+    "title": "shells.systems",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a3958a39",
+    "url": "https://shenaniganslabs.io/feed",
+    "title": "shenaniganslabs.io",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a0612175",
+    "url": "https://shorsec.io/feed/",
+    "title": "shorsec.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6fe950cd",
+    "url": "https://signal.org/blog/rss.xml",
+    "title": "signal.org",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0500d56e",
+    "url": "https://sillywa.re/index.xml",
+    "title": "sillywa.re",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1de9184e",
+    "url": "https://simondotsh.com/feed.xml",
+    "title": "simondotsh.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "be74c9ee",
+    "url": "https://skelsec.medium.com/feed",
+    "title": "skelsec.medium.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ae59604e",
+    "url": "https://skii.dev/rss/",
+    "title": "skii.dev",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "387da0db",
+    "url": "https://skr1x.github.io/feed.xml",
+    "title": "skr1x.github.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c9432bba",
+    "url": "https://snovvcrash.rocks/feed",
+    "title": "snovvcrash.rocks",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "16b9ea46",
+    "url": "https://sockpuppets.medium.com/feed",
+    "title": "sockpuppets.medium.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5bd117ee",
+    "url": "https://spaceraccoon.dev/feed.xml",
+    "title": "spaceraccoon.dev",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f50bb5dd",
+    "url": "https://specterops.io/feed/",
+    "title": "specterops.io",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "17977eb7",
+    "url": "https://srcincite.io/feed",
+    "title": "srcincite.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e6b1f281",
+    "url": "https://srd.cx/feed/",
+    "title": "srd.cx",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "00fb9999",
+    "url": "https://starlabs.sg/index.xml",
+    "title": "starlabs.sg",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e0734b08",
+    "url": "https://sternumiot.com/feed/",
+    "title": "sternumiot.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "90f57aa5",
+    "url": "https://summoning.team/index.xml",
+    "title": "summoning.team",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "dbab882a",
+    "url": "https://swisskyrepo.github.io/feed",
+    "title": "swisskyrepo.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "035af1a6",
+    "url": "https://swisskyrepo.github.io/feed.xml",
+    "title": "swisskyrepo.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1cad7757",
+    "url": "https://syfuhs.net/feed/atom/",
+    "title": "syfuhs.net",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2e83f347",
+    "url": "https://syscall.cafe/feed/",
+    "title": "syscall.cafe",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f6efea4b",
+    "url": "https://taggart-tech.com/atom.xml",
+    "title": "taggart-tech.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6800c2b8",
+    "url": "https://talosintelligence.com/vulnerability_reports/feed",
+    "title": "talosintelligence.com",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "865adcd9",
+    "url": "https://tastypepperoni.medium.com/feed",
+    "title": "tastypepperoni.medium.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "07c4c495",
+    "url": "https://thalpius.com/feed/",
+    "title": "thalpius.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "831e286c",
+    "url": "https://thecontractor.io/rss/",
+    "title": "thecontractor.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "33335d84",
+    "url": "https://the-deniss.github.io/feed.xml",
+    "title": "the-deniss.github.io",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "f3fde9c4",
+    "url": "https://thedfirreport.com/feed/",
+    "title": "thedfirreport.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0184ae42",
+    "url": "https://theevilbit.github.io/index.xml",
+    "title": "theevilbit.github.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "edebbb58",
+    "url": "https://therealunicornsecurity.github.io/feed.xml",
+    "title": "therealunicornsecurity.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "cb9a53dc",
+    "url": "https://thievi.sh/index.xml",
+    "title": "thievi.sh",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5995c9d6",
+    "url": "https://tierzerosecurity.co.nz/feed.xml",
+    "title": "tierzerosecurity.co.nz",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "474c0c8b",
+    "url": "https://trevorsaudi.com/posts/index.xml",
+    "title": "trevorsaudi.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1f89869a",
+    "url": "https://trustedsec.com/feed.rss",
+    "title": "trustedsec.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fb472511",
+    "url": "https://tweak-extension.com/blog/atom.xml",
+    "title": "tweak-extension.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "0f42f37b",
+    "url": "https://unit42.paloaltonetworks.com/feed/",
+    "title": "unit42.paloaltonetworks.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "c476480b",
+    "url": "https://universalshards.com/feed",
+    "title": "universalshards.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "33eb9239",
+    "url": "https://v3ded.github.io/feed.xml",
+    "title": "v3ded.github.io",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "3cd42865",
+    "url": "https://v3rtigo.org/index.xml",
+    "title": "v3rtigo.org",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b52b3f29",
+    "url": "https://vanmieghem.io/feed.xml",
+    "title": "vanmieghem.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ac4bc7f6",
+    "url": "https://victoronsoftware.com/index.xml",
+    "title": "victoronsoftware.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "b408509b",
+    "url": "https://vollragm.github.io/feed",
+    "title": "vollragm.github.io",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "269720df",
+    "url": "https://whereisk0shl.top/feed",
+    "title": "whereisk0shl.top",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5204012c",
+    "url": "https://whiteknightlabs.com/feed/",
+    "title": "whiteknightlabs.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ada102f3",
+    "url": "https://whynotsecurity.com/feed.xml",
+    "title": "whynotsecurity.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e9c42cdc",
+    "url": "https://windows-internals.com/an-end-to-kaslr-bypasses/feed/",
+    "title": "windows-internals.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "94f19b6d",
+    "url": "https://wojciechregula.blog/rss.xml",
+    "title": "wojciechregula.blog",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "287c6955",
+    "url": "https://worthdoingbadly.com/feed.xml",
+    "title": "worthdoingbadly.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d89583cc",
+    "url": "https://www.0ffset.net/feed/",
+    "title": "0ffset.net",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "6c6529ad",
+    "url": "https://www.3nailsinfosec.com/blog-feed.xml",
+    "title": "3nailsinfosec.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "ebc8ff49",
+    "url": "https://www.accidentalrebel.com/feeds/all.atom.xml",
+    "title": "accidentalrebel.com",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1cc16bec",
+    "url": "https://www.antitree.com/index.xml",
+    "title": "antitree.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "a0f166f5",
+    "url": "https://www.aquasec.com/feed/",
+    "title": "aquasec.com",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "48c265f2",
+    "url": "https://www.blackhillsinfosec.com/feed/",
+    "title": "blackhillsinfosec.com",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "fce82645",
+    "url": "https://www.cisa.gov/blog.xml",
+    "title": "cisa.gov",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "d0652497",
+    "url": "https://www.cncf.io/feed/",
+    "title": "cncf.io",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "5f9e528d",
+    "url": "https://www.datadoghq.com/blog/index.xml",
+    "title": "datadoghq.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "da873d7e",
+    "url": "https://www.davebucklin.com/feed.xml",
+    "title": "davebucklin.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "8b981d1a",
+    "url": "https://www.da.vidbuchanan.co.uk/blog/rss.xml",
+    "title": "da.vidbuchanan.co.uk",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e9cf7670",
+    "url": "https://www.evilsocket.net/atom.xml",
+    "title": "evilsocket.net",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "e800c740",
+    "url": "https://www.kandji.io/blog/rss.xml",
+    "title": "kandji.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "1fd5bc7f",
+    "url": "https://www.mdsec.co.uk/feed/",
+    "title": "mdsec.co.uk",
+    "category": "security",
+    "color": "#ec4899",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "961d59ca",
+    "url": "https://www.outflank.nl/feed/",
+    "title": "outflank.nl",
+    "category": "security",
+    "color": "#3b82f6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2ac23ad1",
+    "url": "https://www.praetorian.com/feed/",
+    "title": "praetorian.com",
+    "category": "security",
+    "color": "#84cc16",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "2758af6d",
+    "url": "https://www.sentinelone.com/feed/",
+    "title": "sentinelone.com",
+    "category": "security",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "55e7f8f9",
+    "url": "https://www.sonarsource.com/blog/rss.xml",
+    "title": "sonarsource.com",
+    "category": "security",
+    "color": "#06b6d4",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "9940a668",
+    "url": "https://www.sygnia.co/feed/",
+    "title": "sygnia.co",
+    "category": "security",
+    "color": "#10b981",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "414bc8a5",
+    "url": "https://www.whitecyberduck.com/rss.xml",
+    "title": "whitecyberduck.com",
+    "category": "security",
+    "color": "#f59e0b",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "522e836d",
+    "url": "https://www.wiz.io/feed/rss.xml",
+    "title": "wiz.io",
+    "category": "security",
+    "color": "#ef4444",
+    "addedAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": "df495797",
+    "url": "meirl.dev/rss.xml",
+    "title": "meirl.dev/rss.xml",
+    "category": "brian",
+    "color": "#8b5cf6",
+    "addedAt": "2026-11-14T01:29:21.200Z"
+  }
+]

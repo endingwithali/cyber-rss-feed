@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="auto">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>⚡ FocusFeed</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<!-- ══ SIDEBAR (220px) ════════════════════════════════════════════════════════ -->
+<aside id="sidebar">
+
+  <div class="sidebar-logo">⚡ FocusFeed</div>
+
+  <div class="sidebar-stats">
+    <span id="statToday">0 today</span>
+    <span class="stat-sep">·</span>
+    <span id="statStreak">0 🔥</span>
+  </div>
+
+  <!-- Filter nav -->
+  <nav class="sidebar-nav">
+    <button class="nav-item" data-filter="all">
+      <span class="nav-icon">📰</span>
+      <span class="nav-label">All</span>
+    </button>
+    <button class="nav-item active" data-filter="unread">
+      <span class="nav-icon">📬</span>
+      <span class="nav-label">Unread</span>
+      <span class="nav-count" id="countUnread">0</span>
+    </button>
+    <button class="nav-item" data-filter="saved">
+      <span class="nav-icon">🔖</span>
+      <span class="nav-label">Saved</span>
+      <span class="nav-count hidden" id="countSaved">0</span>
+    </button>
+  </nav>
+
+  <!-- Feeds -->
+  <div class="sidebar-section-header feeds-header">
+    <span>FEEDS</span>
+    <button class="feed-organize-btn" id="btnOrganizeFeeds" title="Group feeds with AI">✦ AI organize</button>
+  </div>
+  <ul class="feed-list" id="feedList"></ul>
+  <button class="feed-add-btn" id="btnAddFeed">
+    <span class="feed-add-plus">+</span>
+    <span>Add Feed</span>
+  </button>
+
+  <div class="sidebar-section-header grouping-header">
+    <span>GROUPING</span>
+    <button class="feed-organize-btn" id="btnGroupArticles" title="Group articles with AI">✦ AI group</button>
+  </div>
+  <ul class="group-list" id="groupList"></ul>
+
+  <!-- Footer: theme + actions -->
+  <div class="sidebar-footer">
+    <div class="theme-switcher">
+      <button class="theme-btn" data-theme-btn="day"      title="Day"      style="background:#ffffff"></button>
+      <button class="theme-btn" data-theme-btn="sunset"   title="Sunset"   style="background:#f5f2eb"></button>
+      <button class="theme-btn" data-theme-btn="dusk"     title="Dusk"     style="background:#262626"></button>
+      <button class="theme-btn" data-theme-btn="midnight" title="Midnight" style="background:#000000"></button>
+      <button class="theme-btn theme-btn-auto"            data-theme-btn="auto" title="Auto (system)"></button>
+    </div>
+    <div class="sidebar-footer-actions">
+      <button class="footer-action-btn" id="btnShortcuts"    title="Keyboard shortcuts (?)">?</button>
+      <button class="footer-action-btn" id="btnSprintSidebar" title="Sprint mode (x)">⚡ Sprint</button>
+      <button class="footer-action-btn" id="btnRefresh"       title="Refresh feeds (R)">↻</button>
+    </div>
+  </div>
+</aside>
+
+<!-- Draggable divider: sidebar ↔ story list -->
+<div class="resize-handle" id="sidebarResize" data-resize-pane="sidebar" role="separator"
+     aria-orientation="vertical" aria-label="Resize sidebar" tabindex="0"></div>
+
+<!-- ══ LIST PANE (320px) ══════════════════════════════════════════════════════ -->
+<div id="listPane">
+
+  <!-- Header (44px) -->
+  <div class="list-header">
+    <div class="list-heading">
+      <span class="list-title" id="listTitle">Unread</span>
+      <span class="list-count" id="listCount" aria-live="polite"></span>
+    </div>
+    <div class="list-header-actions">
+      <select id="sortSelect" class="sort-select" title="Sort order">
+        <option value="newest">Newest</option>
+        <option value="oldest">Oldest</option>
+        <option value="reading_time">Quick reads</option>
+      </select>
+      <button class="list-header-btn" id="btnMarkAllRead" title="Mark all read (m)">✓</button>
+    </div>
+  </div>
+
+  <!-- Search bar -->
+  <div class="list-search">
+    <input type="text" id="searchInput" placeholder="Search articles…" autocomplete="off" />
+  </div>
+
+  <!-- Sprint Banner (hidden by default) -->
+  <div class="sprint-banner hidden" id="sprintBanner">
+    <span class="sprint-icon">⚡</span>
+    <span class="sprint-label" id="sprintLabel">Sprint: 0 / 3</span>
+    <div class="sprint-bar-wrap">
+      <div class="sprint-bar-fill" id="sprintBarFill"></div>
+    </div>
+    <button class="sprint-stop" id="btnSprintStop">✕</button>
+  </div>
+
+  <!-- Article list (scrollable) -->
+  <div class="list-scroll">
+    <div id="loadingState" class="state-msg hidden">
+      <div class="spinner"></div>
+      <span>Fetching articles…</span>
+    </div>
+    <div id="emptyState" class="state-msg hidden">
+      <div class="empty-emoji">🎉</div>
+      <div class="empty-title">All caught up!</div>
+      <div class="empty-sub">No more unread articles.</div>
+      <button class="btn-view-all" id="btnViewAll">View all</button>
+    </div>
+    <ul id="articleList" class="article-list"></ul>
+  </div>
+</div>
+
+<!-- Draggable divider: story list ↔ reader -->
+<div class="resize-handle" id="listResize" data-resize-pane="list" role="separator"
+     aria-orientation="vertical" aria-label="Resize story list" tabindex="0"></div>
+
+<!-- ══ READER PANE (flex:1) ════════════════════════════════════════════════════ -->
+<div id="readerPane">
+
+  <!-- Reading progress bar (absolute top, 2px) -->
+  <div id="readerProgressBar">
+    <div id="readerProgressFill"></div>
+  </div>
+
+  <!-- Empty state -->
+  <div id="readerEmpty" class="reader-empty">
+    <div class="reader-empty-icon">📰</div>
+    <div class="reader-empty-text">Select an article to read</div>
+  </div>
+
+  <!-- Article content (shown when article is selected) -->
+  <div id="readerContent" class="hidden">
+
+    <!-- Toolbar (44px) -->
+    <div id="readerToolbar">
+      <div class="reader-toolbar-left">
+        <button class="reader-action-btn" id="readerUnreadBtn">↩ Unread</button>
+        <button class="reader-action-btn" id="readerSaveBtn">🔖 Save</button>
+        <button class="reader-action-btn" id="readerHighlightBtn" disabled title="Select text to highlight">✦ Highlight</button>
+      </div>
+      <div class="reader-toolbar-center">
+        <span id="readerFeedName" class="reader-feed-name"></span>
+      </div>
+      <div class="reader-toolbar-right">
+        <span id="readerReadingTime" class="reader-reading-time"></span>
+        <button class="reader-action-btn" id="readerOpenBtn">↗ Open</button>
+      </div>
+    </div>
+
+    <!-- Scrollable content area -->
+    <div id="readerScrollArea">
+      <article id="readerArticle">
+        <h1 id="articleTitle" class="article-title"></h1>
+        <div id="articleMeta" class="article-meta"></div>
+        <div id="articleBody" class="article-body"></div>
+        <div class="reader-nav">
+          <button class="reader-nav-btn" id="readerPrev">← Previous</button>
+          <button class="reader-nav-btn" id="readerNext">Next →</button>
+        </div>
+      </article>
+    </div>
+
+  </div><!-- /#readerContent -->
+
+  <!-- Appears beside a text selection in the reader. Its position is relative to this pane. -->
+  <div id="highlightPopover" class="highlight-popover hidden">
+    <button id="highlightSelectionBtn">✦ Save highlight</button>
+  </div>
+</div><!-- /#readerPane -->
+
+<!-- ══ ADD FEED MODAL ══════════════════════════════════════════════════════════ -->
+<div class="modal-overlay hidden" id="modalOverlay">
+  <div class="modal">
+    <div class="modal-header">
+      <h2>Add Feed</h2>
+      <button class="modal-close" id="modalClose">✕</button>
+    </div>
+    <div class="modal-body">
+      <label class="form-label">Feed URL</label>
+      <input type="url" id="feedUrlInput" class="form-input" placeholder="https://example.com/feed.xml" />
+      <label class="form-label">Category</label>
+      <input type="text" id="feedCategoryInput" class="form-input" placeholder="tech, news, design…" value="general" />
+      <div class="suggested-label">Suggested feeds</div>
+      <div class="suggested-chips" id="suggestedChips"></div>
+    </div>
+    <div class="modal-footer">
+      <button class="btn-secondary" id="modalCancel">Cancel</button>
+      <button class="btn-primary"   id="modalSubmit">Add Feed</button>
+    </div>
+    <div class="modal-status hidden" id="modalStatus"></div>
+  </div>
+</div>
+
+<!-- ══ KEYBOARD SHORTCUTS OVERLAY ══════════════════════════════════════════════ -->
+<div class="modal-overlay hidden" id="shortcutsOverlay">
+  <div class="modal shortcuts-modal">
+    <div class="modal-header">
+      <h2>⌨ Keyboard Shortcuts</h2>
+      <button class="modal-close" id="shortcutsClose">✕</button>
+    </div>
+    <div class="shortcuts-grid">
+      <div class="shortcut-group">
+        <div class="shortcut-group-title">Navigation</div>
+        <div class="shortcut-row"><kbd>j</kbd><kbd>↓</kbd><span>Next article</span></div>
+        <div class="shortcut-row"><kbd>k</kbd><kbd>↑</kbd><span>Prev article</span></div>
+        <div class="shortcut-row"><kbd>Enter</kbd><span>Open reader</span></div>
+        <div class="shortcut-row"><kbd>Esc</kbd><span>Close / back</span></div>
+      </div>
+      <div class="shortcut-group">
+        <div class="shortcut-group-title">Actions</div>
+        <div class="shortcut-row"><kbd>r</kbd><span>Mark read</span></div>
+        <div class="shortcut-row"><kbd>u</kbd><span>Mark unread</span></div>
+        <div class="shortcut-row"><kbd>s</kbd><span>Save / unsave</span></div>
+        <div class="shortcut-row"><kbd>d</kbd><span>Dismiss + next</span></div>
+        <div class="shortcut-row"><kbd>o</kbd><span>Open in browser</span></div>
+      </div>
+      <div class="shortcut-group">
+        <div class="shortcut-group-title">Global</div>
+        <div class="shortcut-row"><kbd>m</kbd><span>Mark all read</span></div>
+        <div class="shortcut-row"><kbd>R</kbd><span>Refresh feeds</span></div>
+        <div class="shortcut-row"><kbd>x</kbd><span>Toggle sprint</span></div>
+        <div class="shortcut-row"><kbd>/</kbd><span>Search</span></div>
+        <div class="shortcut-row"><kbd>1</kbd><kbd>2</kbd><kbd>3</kbd><span>Switch filter</span></div>
+        <div class="shortcut-row"><kbd>?</kbd><span>This help</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ══ CELEBRATION OVERLAY ══════════════════════════════════════════════════════ -->
+<div class="celebration hidden" id="celebrationOverlay">
+  <div class="celebration-box">
+    <div class="celebration-emoji">🎉</div>
+    <div class="celebration-title">Sprint Complete!</div>
+    <div class="celebration-sub">You read 3 articles. Nice focus!</div>
+    <div class="celebration-actions">
+      <button class="btn-primary"   id="celebrationAnother">⚡ Another sprint</button>
+      <button class="btn-secondary" id="celebrationDone">Done for now</button>
+    </div>
+  </div>
+</div>
+
+<!-- ══ TOAST CONTAINER ══════════════════════════════════════════════════════════ -->
+<div id="toastContainer" class="toast-container"></div>
+
+<script src="app.js"></script>
+</body>
+</html>

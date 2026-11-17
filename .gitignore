@@ -1,0 +1,28 @@
+node_modules/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+
+# Runtime data (generated locally)
+data/state.json
+data/groups.json
+
+# Local runtime/experiment output
+scratch/*
+!scratch/.gitkeep
+*.log
+*.pid
+
+# Local editor/OS files
+.DS_Store
+
+# Agent/harness metadata (not required to run the application)
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.pi/
+.claude/
+.cursor/
+.codex/
